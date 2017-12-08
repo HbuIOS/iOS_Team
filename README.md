@@ -9,4 +9,5 @@
 - 王佳萌
 - 钟文韬
 - 参赛成绩：http://cs.hbu.cn/details.aspx?type=news&id=945
-- 作品海报：
+- 作品海报：  
+![](https://github.com/HbuIOS/iOS_Team/blob/master/RushParking.jpg)
