@@ -1,4 +1,3 @@
-# iOS 竞赛组
 ### 2018参赛队员
 - [钟文韬](https://github.com/William168052)
 - [金雨诺](https://github.com/mengjiu999)
