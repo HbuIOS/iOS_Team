@@ -2,7 +2,7 @@
 ### 2018队员
 - [钟文韬](https://github.com/William168052)
 - [金雨诺](https://github.com/mengjiu999)
-- [苗乔伟](https://github.com/MXbillow)
+- [苗乔伟](https://github.com/MiaoQiaowei)
 - [周朗睿](https://github.com/zlr0110)
 - [张玥瑶](https://github.com/UBling)
 
